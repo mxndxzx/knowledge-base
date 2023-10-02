@@ -11,8 +11,12 @@
             "id": "b55201095b4e1bb8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Mercado/Introducción.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/Mercado/Introducción.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,8 +102,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personal/Mercado/Introducción.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal/Mercado/Introducción.md"
+              }
             }
           },
           {
@@ -130,7 +138,7 @@
             }
           },
           {
-            "id": "a6dd51782df29dff",
+            "id": "09290f3633424c13",
             "type": "leaf",
             "state": {
               "type": "Strange New Worlds",
@@ -138,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -164,6 +172,26 @@
   },
   "active": "b55201095b4e1bb8",
   "lastOpenFiles": [
+    "Personal/Untitled.md",
+    "Personal/Mercado/Introducción.md",
+    "Personal/Mercado",
+    "Personal/Formateo Agosto 23'.md",
+    "ReactJS/Apuntes.md",
+    "Personal",
+    "ReactJS/Intro.md",
+    "ReactJS/Conceptos de React.md",
+    "Git/Principiantes/Control de Versiones.md",
+    "Git/Bienvenido a la Biblia de Git!.md",
+    "Git/Cheatsheet.md",
+    "Git/Principiantes",
+    "_assets",
+    "Docker",
+    "API's",
+    "DevOps",
+    "Bootstrap",
+    "Javascript",
+    "NodeJS",
+    "Untitled.md",
     "Docker.md"
   ]
 }
